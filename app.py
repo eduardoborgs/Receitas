@@ -44,7 +44,7 @@ body {
 # Título estilizado com Bootstrap
 st.markdown("""
 <div class="container header-custom">
-    <h1 class="display-6">🍲 Receitas Inteligentes a partir do ChatPDF</h1>
+    <h1 class="display-6">🍲 Receitas Sustentáveis</h1>
     <p class="lead">Descubra receitas sustentáveis e criativas</p>
 </div>
 """, unsafe_allow_html=True)
