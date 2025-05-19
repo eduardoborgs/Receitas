@@ -83,6 +83,6 @@ if pergunta and api_key and source_id:
 else:
     st.markdown("""
     <div class="container container-custom">
-        <p class="text-muted">Digite uma pergunta para consultar o conteúdo do PDF via ChatPDF.</p>
+        <p class="text-muted"Sua resposta irá aparecer aqui.. .</p>
     </div>
     """, unsafe_allow_html=True)
