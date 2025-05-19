@@ -45,7 +45,7 @@ body {
 st.markdown("""
 <div class="container header-custom">
     <h1 class="display-6">🍲 Receitas Inteligentes a partir do ChatPDF</h1>
-    <p class="lead">Descubra receitas sustentáveis e criativas diretamente do seu acervo em PDF</p>
+    <p class="lead">Descubra receitas sustentáveis e criativas</p>
 </div>
 """, unsafe_allow_html=True)
 
